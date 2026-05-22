@@ -7,45 +7,59 @@
     "role": "admin"
   },
   {
-    "id": "u1778668606171",
-    "username": "Alemayehu Fite",
-    "password": "alex@EDR",
-    "name": "Alemayheu Fite",
+    "id": "u2",
+    "username": "pm1",
+    "password": "pm@EDR2024",
+    "name": "Project Manager",
+    "role": "pm"
+  },
+  {
+    "id": "u3",
+    "username": "rm1",
+    "password": "rm@EDR2024",
+    "name": "Resource Manager",
     "role": "rm"
   },
   {
-    "id": "u1778668627336",
-    "username": "Daniel Wordofa",
-    "password": "dan@EDR",
-    "name": "Daniel Wordofa",
+    "id": "u4",
+    "username": "ce1",
+    "password": "ce@EDR2024",
+    "name": "Chief of Engineering",
     "role": "ce"
   },
   {
-    "id": "u1778668647102",
+    "id": "u5",
+    "username": "dpm1",
+    "password": "dpm@EDR2024",
+    "name": "Abiy Girma",
+    "role": "dpm"
+  },
+  {
+    "id": "u6",
+    "username": "ppc1",
+    "password": "ppc@EDR2024",
+    "name": "Kalkidan Teshoma",
+    "role": "ppc"
+  },
+  {
+    "id": "u7",
+    "username": "sm1",
+    "password": "sm@EDR2024",
+    "name": "Store Manager",
+    "role": "sm"
+  },
+  {
+    "id": "u1779431614646",
     "username": "Tesfaye Buta",
     "password": "tes@EDR",
     "name": "Tesfaye Buta",
     "role": "pm"
   },
   {
-    "id": "u1778668665917",
-    "username": "Abiy Girma",
-    "password": "abiy@EDR",
-    "name": "Abiy Girma",
-    "role": "dpm"
-  },
-  {
-    "id": "u1778668702721",
-    "username": "Kalkidan Teshome",
-    "password": "kal@EDR",
-    "name": "Kalkidan Teshome",
-    "role": "ppc"
-  },
-  {
-    "id": "u1778668720023",
-    "username": "Ashustore",
-    "password": "ash@EDR",
-    "name": "Ashu",
-    "role": "sm"
+    "id": "u1779431641369",
+    "username": "Alemayehu Fite",
+    "password": "alex@EDR",
+    "name": "Alemayehu Fite",
+    "role": "admin"
   }
 ]
